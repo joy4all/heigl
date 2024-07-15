@@ -1,0 +1,21 @@
+$extra_large: 2100px;
+$xxl: 1550px;
+$xl: 1200px;
+$lg: 991px;
+$md: 767px;
+$sm: 575px;
+
+
+// Color Variables //
+
+:root {
+    --main-dark-color: 22, 22, 22;
+    --main-light-color: 255, 255, 255;
+    --main-highlight-color: 229, 33, 67;
+    --main-font-stack: 'Teko';
+    --sub-font-stack: 'Graduate';
+    --special-font-stack: 'Yesteryear';
+    --default-font-stack: 'Arial';
+    --col-padding: 40px;
+    --header-height: 165px;
+}
