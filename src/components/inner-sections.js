@@ -56,7 +56,6 @@ export default function Sections() {
                                             <div className="wwmodule-list-pic">
                                                 <img src={cowImg} alt="cowImg" />
                                             </div>
-                                            <h2 className="wwmodule-list-title"></h2>
                                         </a>
                                     </li>
                                     <li>
@@ -64,7 +63,6 @@ export default function Sections() {
                                             <div className="wwmodule-list-pic">
                                                 <img src={henImg} alt="henImg" />
                                             </div>
-                                            <h2 className="wwmodule-list-title"></h2>
                                         </a>
                                     </li>
                                     <li>
@@ -72,7 +70,6 @@ export default function Sections() {
                                             <div className="wwmodule-list-pic">
                                                 <img src={pigImg} alt="pigImg" />
                                             </div>
-                                            <h2 className="wwmodule-list-title"></h2>
                                         </a>
                                     </li>
                                 </ul>
